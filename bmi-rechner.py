@@ -5,7 +5,7 @@
 
 ### Eingabe ###
 print("Bitte geben Sie ihr Gewicht in Kg ein: ")
-gewicht=int(input())
+gewicht=float(input())
 
 print("Bitte geben Sie Ihre Körpgergrösse in Meter ein: ")
 groesse=float(input())
