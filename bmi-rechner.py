@@ -15,10 +15,6 @@ groesse=groesse/100.00
 '''print ("Sind sie männlich(m) oder Weiblich(w)? ")
 gender=input()'''
 
-
-'''print("Wie alt sind Sie? ")
-alter=int(input())'''
-
 ### Verarbeitung ###
 bmi=gewicht/(groesse*groesse)
 
